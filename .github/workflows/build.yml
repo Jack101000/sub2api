@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: tags: ghcr.io/jack101000/sub2api:googleone-projectid
+          tags: ghcr.io/jack101000/sub2api:googleone-projectid
