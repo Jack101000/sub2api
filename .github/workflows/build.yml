@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/sub2api:googleone-projectid
+          tags: tags: ghcr.io/jack101000/sub2api:googleone-projectid
